@@ -1,0 +1,17 @@
+{
+  "name": "vue-press",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/XXXXXXX/vue-press.git",
+  "author": "hiroaki-itou",
+  "license": "MIT",
+  "scripts": {
+    "src:dev":"vuepress dev src",
+    "src:build":"vuepress build src"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "vuepress": "^1.9.8"
+  }
+}
